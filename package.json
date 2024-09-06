@@ -1,0 +1,14 @@
+{
+  "name": "ast",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "mime-types": "^2.1.35",
+    "openai": "^4.55.5"
+  }
+}
